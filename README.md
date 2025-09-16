@@ -23,6 +23,9 @@ When I'm not coding, I'm tinkering with electronics—designing and building sma
 > "Don't put off to tomorrow what you can get done today."
 >
 > "Don't do things half-fast."  
+>
+> "Know your limits"
+>
 > — My Grandfather
 
 ## 📫 Connect
