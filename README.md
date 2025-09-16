@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Developer** who loves creating efficient, robust, and creative solutions. My toolbelt includes **Kotlin**, **SQL**, **GDScript**, **Python**, and **Solid.js**. Whether I'm working on backend services or game development, I strive for clean architecture and seamless user experiences.
+I'm a passionate **Developer** who loves creating efficient, robust, and creative solutions. My toolbelt includes **Kotlin**, **Java**, **SQL**, **GDScript**, **Python**, and **Solid.js**. Whether I'm working on backend services or game development, I strive for clean architecture and seamless user experiences.
 
 ## 🏆 Highlight Project
 
