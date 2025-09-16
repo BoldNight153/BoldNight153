@@ -7,7 +7,7 @@ I'm a passionate **Developer** who loves creating efficient, robust, and creativ
 ## 🏆 Highlight Project
 
 ### [GreedBot](https://github.com/BoldNight153/GreedBot)
-GreedBot is my proudest project—a showcase of integrating with external REST APIs, crafting custom abstractions, and securing sensitive data using device keystore encryption. If you want to see how I handle real-world integration and security, check it out!
+GreedBot is my proudest project—a showcase of integrating with external REST APIs, crafting custom abstractions, generating interfaces, and securing sensitive data using device keystore encryption. If you want to see how I handle real-world integration and security, check it out!
 
 ## 💻 Other Cool Projects
 - [Survivor Arena](https://github.com/BoldNight153/survivor-arena)
