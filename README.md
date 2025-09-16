@@ -24,7 +24,7 @@ When I'm not coding, I'm tinkering with electronics—designing and building sma
 >
 > "Don't do things half-fast."  
 >
-> "Know your limits"
+> "Know your limits."
 >
 > — My Grandfather
 
